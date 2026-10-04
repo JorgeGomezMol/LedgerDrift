@@ -1,0 +1,10 @@
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.venv/
+# Never commit real exports or record-level reports
+exports/
+private/
+**/findings.csv
+**/review_queue.csv
+!examples/**
