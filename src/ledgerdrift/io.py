@@ -20,6 +20,7 @@ still produces whatever checks its data supports.
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 
 import pandas as pd
@@ -53,7 +54,29 @@ def normalize(name: str, df: pd.DataFrame) -> pd.DataFrame:
             df[col] = pd.to_numeric(df[col], errors="coerce")
         else:
             df[col] = df[col].fillna("").astype(str).str.strip()
+    if name == "invoice_lines":
+        df["line_type"] = infer_line_type(df)
+    if name == "invoice_lines" and df["line_no"].isna().all() and len(df):
+        df["line_no"] = df.groupby("doc_number").cumcount() + 1
     return df.reset_index(drop=True)
+
+
+_TAX_ITEM = re.compile(r"\b(?:sales\s*tax|tax|vat|iva|gst)\b", re.I)
+_TAX_ACCOUNT = re.compile(r"(?:tax|payable|liabilit)", re.I)
+
+
+def infer_line_type(lines: pd.DataFrame) -> pd.Series:
+    """Fill a missing line_type.
+
+    Most accounting exports carry no line type. A line is treated as tax when
+    its item OR its account says so; everything else is a sale line. The
+    tax-classification check then compares the item with the account, so a
+    tax item posted to a revenue account is still caught.
+    """
+    given = lines["line_type"].str.lower()
+    is_tax = lines["item"].str.contains(_TAX_ITEM) | lines["account"].str.contains(_TAX_ACCOUNT)
+    inferred = is_tax.map({True: "tax", False: "service"})
+    return given.where(given != "", inferred)
 
 
 def load_dir(path: str | Path, mapping_file: str | Path | None = None) -> dict[str, pd.DataFrame]:

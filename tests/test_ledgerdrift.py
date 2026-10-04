@@ -67,3 +67,19 @@ def test_evaluation_recall_floor():
     led = res["ledger_only"].set_index("defect")
     assert (led.recall.dropna() >= 0.85).all()
     assert res["anomaly_auc"] > 0.9
+
+
+def test_line_type_inferred_when_export_has_none():
+    from ledgerdrift.io import normalize
+    raw = pd.DataFrame({
+        "doc_number": ["1001", "1001", "1002", "1002"],
+        "item": ["ATV Service", "Sales Tax", "Helmet", "Sales Tax"],
+        "account": ["Service Income", "Sales Tax Payable", "Parts Sales", "Parts Sales"],
+        "amount": ["100", "7", "50", "3.5"],
+    })
+    lines = normalize("invoice_lines", raw)
+    assert list(lines.line_type) == ["service", "tax", "service", "tax"]
+    assert list(lines.line_no) == [1, 2, 1, 2]
+    from ledgerdrift.detect import tax_classification
+    flagged = {f["ledger_key"] for f in tax_classification(lines)}
+    assert flagged == {"1002"}

@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "ledgerdrift"
-version = "0.1.0"
+version = "0.1.1"
 description = "Open detection of silent data corruption in automated integrations between operational platforms and accounting systems"
 readme = "README.md"
 license = { text = "MIT" }
