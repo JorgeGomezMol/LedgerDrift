@@ -1,0 +1,33 @@
+{
+  "invoices": {
+    "doc_number": "Num",
+    "customer": "Customer",
+    "txn_date": "Date",
+    "terms": "Terms",
+    "tax_jurisdiction": "Tax Code",
+    "total": "Amount"
+  },
+  "invoice_lines": {
+    "doc_number": "Num",
+    "line_no": "Line",
+    "item": "Product/Service",
+    "line_type": "Type",
+    "account": "Account",
+    "amount": "Amount"
+  },
+  "payments": {
+    "payment_id": "Ref No",
+    "customer": "Customer",
+    "txn_date": "Date",
+    "amount": "Amount",
+    "applied_doc_number": "Applied To"
+  },
+  "time_entries": {
+    "entry_id": "Entry ID",
+    "engineer": "Member",
+    "client": "Company",
+    "project": "Project",
+    "work_date": "Date",
+    "hours": "Hours"
+  }
+}

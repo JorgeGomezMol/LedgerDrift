@@ -1,0 +1,314 @@
+mode,record_type,ledger_key,source_key,defect,confidence,detail
+ledger_only,invoice,10030,,IDENTIFIER,high,number format '99999' is used by under 5% of invoices
+ledger_only,invoice,10092,,IDENTIFIER,high,number format '99999' is used by under 5% of invoices
+ledger_only,invoice,INV-10105-1,,IDENTIFIER,high,number format 'AAA-99999-9' is used by under 5% of invoices
+ledger_only,invoice,INV-10139-1,,IDENTIFIER,high,number format 'AAA-99999-9' is used by under 5% of invoices
+ledger_only,invoice,10140,,IDENTIFIER,high,number format '99999' is used by under 5% of invoices
+ledger_only,invoice,INV-10164-1,,IDENTIFIER,high,number format 'AAA-99999-9' is used by under 5% of invoices
+ledger_only,invoice,10210,,IDENTIFIER,high,number format '99999' is used by under 5% of invoices
+ledger_only,invoice,INV-10236-1,,IDENTIFIER,high,number format 'AAA-99999-9' is used by under 5% of invoices
+ledger_only,invoice,10283,,IDENTIFIER,high,number format '99999' is used by under 5% of invoices
+ledger_only,invoice,INV-10298-1,,IDENTIFIER,high,number format 'AAA-99999-9' is used by under 5% of invoices
+ledger_only,invoice,INV-10334-1,,IDENTIFIER,high,number format 'AAA-99999-9' is used by under 5% of invoices
+ledger_only,invoice,INV-10395-1,,IDENTIFIER,high,number format 'AAA-99999-9' is used by under 5% of invoices
+ledger_only,invoice,10416,,IDENTIFIER,high,number format '99999' is used by under 5% of invoices
+ledger_only,invoice,10438,,IDENTIFIER,high,number format '99999' is used by under 5% of invoices
+ledger_only,invoice,10442,,IDENTIFIER,high,number format '99999' is used by under 5% of invoices
+ledger_only,invoice,INV-10028,,TAX_CLASSIFICATION,high,tax item posted as a revenue line
+ledger_only,invoice,INV-10052,,TAX_CLASSIFICATION,high,tax item posted as a revenue line
+ledger_only,invoice,INV-10077,,TAX_CLASSIFICATION,high,tax item posted as a revenue line
+ledger_only,invoice,INV-10182,,TAX_CLASSIFICATION,high,tax item posted as a revenue line
+ledger_only,invoice,INV-10190,,TAX_CLASSIFICATION,high,tax item posted as a revenue line
+ledger_only,invoice,INV-10194,,TAX_CLASSIFICATION,high,tax item posted as a revenue line
+ledger_only,invoice,INV-10254,,TAX_CLASSIFICATION,high,tax item posted as a revenue line
+ledger_only,invoice,INV-10338,,TAX_CLASSIFICATION,high,tax item posted as a revenue line
+ledger_only,invoice,INV-10339,,TAX_CLASSIFICATION,high,tax item posted as a revenue line
+ledger_only,invoice,INV-10365,,TAX_CLASSIFICATION,high,tax item posted as a revenue line
+ledger_only,invoice,INV-10379,,TAX_CLASSIFICATION,high,tax item posted as a revenue line
+ledger_only,invoice,INV-10399,,TAX_CLASSIFICATION,high,tax item posted as a revenue line
+ledger_only,invoice,INV-10429,,TAX_CLASSIFICATION,high,tax item posted as a revenue line
+ledger_only,invoice,INV-10441,,TAX_CLASSIFICATION,high,tax item posted as a revenue line
+ledger_only,invoice,INV-10012,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10021,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10033,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10048,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10051,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10065,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10084,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10112,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10163,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10173,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10220,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10232,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10247,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10255,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10279,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10281,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10299,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10327,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10345,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10348,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10374,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10402,,DUPLICATE_LINE,high,identical line repeated 2 times; this item is rarely repeated
+ledger_only,invoice,INV-10146,,TAX_JURISDICTION,high,tax_jurisdiction differs from the customer's usual value (91% of its invoices)
+ledger_only,invoice,INV-10019,,TAX_JURISDICTION,medium,tax_jurisdiction differs from the customer's usual value (80% of its invoices)
+ledger_only,invoice,INV-10410,,TAX_JURISDICTION,medium,tax_jurisdiction differs from the customer's usual value (80% of its invoices)
+ledger_only,invoice,INV-10435,,TAX_JURISDICTION,high,tax_jurisdiction differs from the customer's usual value (90% of its invoices)
+ledger_only,invoice,INV-10075,,TAX_JURISDICTION,high,tax_jurisdiction differs from the customer's usual value (92% of its invoices)
+ledger_only,invoice,INV-10296,,TAX_JURISDICTION,high,tax_jurisdiction differs from the customer's usual value (91% of its invoices)
+ledger_only,invoice,INV-10029,,TAX_JURISDICTION,high,tax_jurisdiction differs from the customer's usual value (91% of its invoices)
+ledger_only,invoice,INV-10167,,TAX_JURISDICTION,medium,tax_jurisdiction differs from the customer's usual value (83% of its invoices)
+ledger_only,invoice,INV-10322,,TAX_JURISDICTION,medium,tax_jurisdiction differs from the customer's usual value (83% of its invoices)
+ledger_only,invoice,INV-10428,,TAX_JURISDICTION,high,tax_jurisdiction differs from the customer's usual value (92% of its invoices)
+ledger_only,invoice,INV-10398,,TAX_JURISDICTION,high,tax_jurisdiction differs from the customer's usual value (91% of its invoices)
+ledger_only,invoice,INV-10064,,TAX_JURISDICTION,high,tax_jurisdiction differs from the customer's usual value (92% of its invoices)
+ledger_only,invoice,INV-10009,,TAX_JURISDICTION,high,tax_jurisdiction differs from the customer's usual value (92% of its invoices)
+ledger_only,invoice,INV-10363,,TAX_JURISDICTION,high,tax_jurisdiction differs from the customer's usual value (89% of its invoices)
+ledger_only,invoice,INV-10443,,TAX_JURISDICTION,high,tax_jurisdiction differs from the customer's usual value (90% of its invoices)
+ledger_only,invoice,INV-10093,,TAX_JURISDICTION,high,tax_jurisdiction differs from the customer's usual value (92% of its invoices)
+ledger_only,invoice,INV-10128,,TAX_JURISDICTION,medium,tax_jurisdiction differs from the customer's usual value (83% of its invoices)
+ledger_only,invoice,INV-10360,,TAX_JURISDICTION,medium,tax_jurisdiction differs from the customer's usual value (83% of its invoices)
+ledger_only,invoice,INV-10129,,TAX_JURISDICTION,high,tax_jurisdiction differs from the customer's usual value (91% of its invoices)
+ledger_only,invoice,INV-10056,,TERMS,high,terms differs from the customer's usual value (90% of its invoices)
+ledger_only,invoice,INV-10166,,TERMS,medium,terms differs from the customer's usual value (80% of its invoices)
+ledger_only,invoice,INV-10291,,TERMS,medium,terms differs from the customer's usual value (80% of its invoices)
+ledger_only,invoice,INV-10371,,TERMS,high,terms differs from the customer's usual value (90% of its invoices)
+ledger_only,invoice,INV-10374,,TERMS,high,terms differs from the customer's usual value (90% of its invoices)
+ledger_only,invoice,INV-10036,,TERMS,high,terms differs from the customer's usual value (91% of its invoices)
+ledger_only,invoice,INV-10135,,TERMS,high,terms differs from the customer's usual value (92% of its invoices)
+ledger_only,invoice,INV-10008,,TERMS,high,terms differs from the customer's usual value (92% of its invoices)
+ledger_only,invoice,INV-10063,,TERMS,high,terms differs from the customer's usual value (91% of its invoices)
+ledger_only,invoice,INV-10159,,TERMS,high,terms differs from the customer's usual value (92% of its invoices)
+ledger_only,invoice,INV-10267,,TERMS,high,terms differs from the customer's usual value (90% of its invoices)
+ledger_only,invoice,INV-10142,,TERMS,medium,terms differs from the customer's usual value (83% of its invoices)
+ledger_only,invoice,INV-10407,,TERMS,medium,terms differs from the customer's usual value (83% of its invoices)
+ledger_only,invoice,INV-10192,,TERMS,medium,terms differs from the customer's usual value (73% of its invoices)
+ledger_only,invoice,INV-10269,,TERMS,medium,terms differs from the customer's usual value (73% of its invoices)
+ledger_only,invoice,INV-10430,,TERMS,medium,terms differs from the customer's usual value (73% of its invoices)
+ledger_only,invoice,INV-10131,,TERMS,high,terms differs from the customer's usual value (90% of its invoices)
+ledger_only,invoice,INV-10356,,TERMS,high,terms differs from the customer's usual value (92% of its invoices)
+ledger_only,invoice,INV-10216,,TERMS,medium,terms differs from the customer's usual value (82% of its invoices)
+ledger_only,invoice,INV-10313,,TERMS,medium,terms differs from the customer's usual value (82% of its invoices)
+ledger_only,invoice,INV-10020,,DATE,medium,date is +28 days from invoices numbered around it
+ledger_only,invoice,INV-10088,,DATE,high,date is -46 days from invoices numbered around it
+ledger_only,invoice,INV-10103,,DATE,high,date is +36 days from invoices numbered around it
+ledger_only,invoice,INV-10113,,DATE,high,date is +44 days from invoices numbered around it
+ledger_only,invoice,INV-10133,,DATE,medium,date is -22 days from invoices numbered around it
+ledger_only,invoice,INV-10148,,DATE,high,date is -32 days from invoices numbered around it
+ledger_only,invoice,INV-10158,,DATE,medium,date is -19 days from invoices numbered around it
+ledger_only,invoice,INV-10160,,DATE,medium,date is +22 days from invoices numbered around it
+ledger_only,invoice,INV-10206,,DATE,medium,date is -20 days from invoices numbered around it
+ledger_only,invoice,INV-10226,,DATE,medium,date is -20 days from invoices numbered around it
+ledger_only,invoice,INV-10261,,DATE,medium,date is +20 days from invoices numbered around it
+ledger_only,invoice,INV-10271,,DATE,medium,date is -26 days from invoices numbered around it
+ledger_only,invoice,INV-10294,,DATE,high,date is +42 days from invoices numbered around it
+ledger_only,invoice,INV-10323,,DATE,medium,date is -20 days from invoices numbered around it
+ledger_only,invoice,INV-10418,,DATE,high,date is -32 days from invoices numbered around it
+ledger_only,payment,PMT-50041,,PAYMENT_UNAPPLIED,high,payment not applied to any invoice; an open invoice of the same customer has exactly this amount
+ledger_only,payment,PMT-50068,,PAYMENT_MISAPPLIED,high,"amount does not match the invoice it was applied to, but matches an open invoice of the same customer"
+ledger_only,payment,PMT-50094,,PAYMENT_MISAPPLIED,high,"amount does not match the invoice it was applied to, but matches an open invoice of the same customer"
+ledger_only,payment,PMT-50096,,PAYMENT_UNAPPLIED,high,payment not applied to any invoice; an open invoice of the same customer has exactly this amount
+ledger_only,payment,PMT-50143,,PAYMENT_UNAPPLIED,high,payment not applied to any invoice; an open invoice of the same customer has exactly this amount
+ledger_only,payment,PMT-50152,,PAYMENT_UNAPPLIED,high,payment not applied to any invoice; an open invoice of the same customer has exactly this amount
+ledger_only,payment,PMT-50164,,PAYMENT_UNAPPLIED,high,payment not applied to any invoice; an open invoice of the same customer has exactly this amount
+ledger_only,payment,PMT-50166,,PAYMENT_UNAPPLIED,high,payment not applied to any invoice; an open invoice of the same customer has exactly this amount
+ledger_only,payment,PMT-50169,,PAYMENT_MISAPPLIED,high,"amount does not match the invoice it was applied to, but matches an open invoice of the same customer"
+ledger_only,payment,PMT-50233,,PAYMENT_UNAPPLIED,high,payment not applied to any invoice; an open invoice of the same customer has exactly this amount
+ledger_only,payment,PMT-50239,,PAYMENT_UNAPPLIED,high,payment not applied to any invoice; an open invoice of the same customer has exactly this amount
+ledger_only,payment,PMT-50260,,PAYMENT_UNAPPLIED,high,payment not applied to any invoice; an open invoice of the same customer has exactly this amount
+ledger_only,payment,PMT-50273,,PAYMENT_UNAPPLIED,high,payment not applied to any invoice; an open invoice of the same customer has exactly this amount
+ledger_only,payment,PMT-50276,,PAYMENT_MISAPPLIED,high,"amount does not match the invoice it was applied to, but matches an open invoice of the same customer"
+ledger_only,payment,PMT-50278,,PAYMENT_MISAPPLIED,high,"amount does not match the invoice it was applied to, but matches an open invoice of the same customer"
+ledger_only,payment,PMT-50313,,PAYMENT_UNAPPLIED,high,payment not applied to any invoice; an open invoice of the same customer has exactly this amount
+ledger_only,payment,PMT-50319,,PAYMENT_UNAPPLIED,high,payment not applied to any invoice; an open invoice of the same customer has exactly this amount
+ledger_only,payment,PMT-50332,,PAYMENT_MISAPPLIED,high,"amount does not match the invoice it was applied to, but matches an open invoice of the same customer"
+ledger_only,payment,PMT-50354,,PAYMENT_MISAPPLIED,high,"amount does not match the invoice it was applied to, but matches an open invoice of the same customer"
+ledger_only,payment,PMT-50358,,PAYMENT_MISAPPLIED,high,"amount does not match the invoice it was applied to, but matches an open invoice of the same customer"
+ledger_only,payment,PMT-50363,,PAYMENT_UNAPPLIED,high,payment not applied to any invoice; an open invoice of the same customer has exactly this amount
+ledger_only,time_entry,TE-100003,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100026,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100038,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100068,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100076,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100102,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100117,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100122,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100127,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100130,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100139,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100153,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100165,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100187,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100192,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100222,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100235,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100258,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100272,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100298,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100304,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100314,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100335,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100363,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100385,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100401,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100403,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100411,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100414,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100416,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100423,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100435,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100438,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100445,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100452,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100456,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100467,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100474,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100494,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100496,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100519,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100523,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100536,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100561,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100562,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100565,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100570,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100575,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100616,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100684,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100723,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100739,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100759,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100766,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100811,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100830,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100837,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100848,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100853,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100872,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100881,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100900,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100908,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100976,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100994,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100996,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-100997,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101035,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101050,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101071,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101082,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101090,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101091,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101100,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101123,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101132,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101147,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101161,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101175,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101177,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101197,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101210,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101249,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101254,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101294,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101296,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101327,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101332,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101333,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101340,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101349,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101350,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101385,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101421,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101423,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101429,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101430,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101448,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101455,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101458,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101468,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101536,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101539,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101577,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101591,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101607,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101608,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101609,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101614,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101616,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101633,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101657,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101667,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101669,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101687,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101690,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101741,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101770,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101780,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101827,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101862,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101882,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101908,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101929,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101975,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101993,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-101995,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102001,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102007,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102022,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102031,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102045,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102054,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102083,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102152,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102168,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102176,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102196,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102213,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102221,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102222,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102233,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102235,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102236,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102248,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102264,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102271,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102276,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102291,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102301,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102305,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102314,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102339,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102345,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102355,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102360,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102366,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102368,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102374,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102375,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102381,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102398,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102459,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102467,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102480,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102487,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102489,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102509,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102521,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102531,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102579,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102581,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102600,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102602,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102632,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102656,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102658,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102710,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102740,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102751,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102753,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102758,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102775,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102778,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102788,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102799,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client
+ledger_only,time_entry,TE-102800,,LABOR_MISALLOCATION,medium,engineer rarely records time for this client

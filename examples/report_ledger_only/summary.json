@@ -1,0 +1,62 @@
+{
+  "tool": "ledgerdrift",
+  "version": "0.1.0",
+  "mode": "ledger_only",
+  "run_date": "2026-10-04",
+  "records_processed": {
+    "invoices": 445,
+    "invoice_lines": 1441,
+    "payments": 380,
+    "time_entries": 2800
+  },
+  "records_flagged_by_defect": {
+    "IDENTIFIER": 15,
+    "TAX_CLASSIFICATION": 14,
+    "DUPLICATE_LINE": 22,
+    "TAX_JURISDICTION": 19,
+    "DATE": 15,
+    "TERMS": 20,
+    "PAYMENT_UNAPPLIED": 13,
+    "PAYMENT_MISAPPLIED": 8,
+    "LABOR_MISALLOCATION": 187
+  },
+  "records_flagged_by_defect_and_confidence": {
+    "DATE": {
+      "high": 6,
+      "medium": 9
+    },
+    "DUPLICATE_LINE": {
+      "high": 22,
+      "medium": 0
+    },
+    "IDENTIFIER": {
+      "high": 15,
+      "medium": 0
+    },
+    "LABOR_MISALLOCATION": {
+      "high": 0,
+      "medium": 187
+    },
+    "PAYMENT_MISAPPLIED": {
+      "high": 8,
+      "medium": 0
+    },
+    "PAYMENT_UNAPPLIED": {
+      "high": 13,
+      "medium": 0
+    },
+    "TAX_CLASSIFICATION": {
+      "high": 14,
+      "medium": 0
+    },
+    "TAX_JURISDICTION": {
+      "high": 13,
+      "medium": 6
+    },
+    "TERMS": {
+      "high": 11,
+      "medium": 9
+    }
+  },
+  "consequences": {}
+}

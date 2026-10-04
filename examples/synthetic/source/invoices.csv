@@ -1,0 +1,446 @@
+doc_number,customer,txn_date,terms,tax_jurisdiction,total
+INV-10001,Customer 022,2025-01-01,Net 30,"Fulton County, GA",2525.31
+INV-10002,Customer 003,2025-01-03,Net 15,"King County, WA",9157.61
+INV-10003,Customer 034,2025-01-03,Due on receipt,"King County, WA",3383.94
+INV-10004,Customer 021,2025-01-04,Net 15,"Cook County, IL",2981.01
+INV-10005,Customer 029,2025-01-04,Net 15,"Hillsborough County, FL",8988.17
+INV-10006,Customer 032,2025-01-04,Net 30,"Maricopa County, AZ",6475.98
+INV-10007,Customer 039,2025-01-04,Net 15,"Polk County, FL",1711.61
+INV-10008,Customer 017,2025-01-05,Net 15,"Travis County, TX",3618.94
+INV-10009,Customer 023,2025-01-05,Net 30,"Kent County, MI",2224.82
+INV-10010,Customer 013,2025-01-06,Net 30,"Travis County, TX",3313.98
+INV-10011,Customer 026,2025-01-07,Due on receipt,"King County, WA",4040.54
+INV-10012,Customer 025,2025-01-09,Net 15,"Cook County, IL",1760.92
+INV-10013,Customer 019,2025-01-11,Net 30,"Lake County, IN",7658.24
+INV-10014,Customer 010,2025-01-12,Net 15,"Maricopa County, AZ",9106.43
+INV-10015,Customer 011,2025-01-12,Net 30,"Polk County, FL",3159.76
+INV-10016,Customer 038,2025-01-13,Net 30,"Maricopa County, AZ",2209.3
+INV-10017,Customer 004,2025-01-15,Net 30,"Ottawa County, MI",1686.34
+INV-10018,Customer 027,2025-01-15,Net 30,"Fulton County, GA",362.89
+INV-10019,Customer 005,2025-01-16,Net 30,"Wayne County, MI",9426.97
+INV-10020,Customer 014,2025-01-16,Net 30,"Lake County, IN",6166.7
+INV-10021,Customer 008,2025-01-17,Net 15,"King County, WA",1353.95
+INV-10022,Customer 009,2025-01-17,Net 30,"Cook County, IL",5664.35
+INV-10023,Customer 016,2025-01-18,Net 30,"Kent County, MI",1623.17
+INV-10024,Customer 018,2025-01-18,Net 30,"Lake County, IN",6518.56
+INV-10025,Customer 020,2025-01-19,Due on receipt,"Hillsborough County, FL",2348.48
+INV-10026,Customer 024,2025-01-19,Net 15,"Fulton County, GA",2242.2
+INV-10027,Customer 030,2025-01-19,Net 30,"Kent County, MI",3541.93
+INV-10028,Customer 031,2025-01-19,Due on receipt,"Travis County, TX",6236.61
+INV-10029,Customer 012,2025-01-20,Net 15,"Lake County, IN",1578.21
+INV-10030,Customer 037,2025-01-20,Net 30,"King County, WA",7629.36
+INV-10031,Customer 002,2025-01-21,Net 30,"King County, WA",3668.81
+INV-10032,Customer 006,2025-01-21,Due on receipt,"DuPage County, IL",1076.15
+INV-10033,Customer 036,2025-01-21,Net 30,"Travis County, TX",8837.05
+INV-10034,Customer 033,2025-01-24,Net 30,"Kent County, MI",5636.49
+INV-10035,Customer 001,2025-01-25,Due on receipt,"Fulton County, GA",2829.64
+INV-10036,Customer 008,2025-02-02,Net 15,"King County, WA",10776.55
+INV-10037,Customer 036,2025-02-03,Net 30,"Travis County, TX",3673.59
+INV-10038,Customer 027,2025-02-06,Net 30,"Fulton County, GA",3490.41
+INV-10039,Customer 029,2025-02-06,Net 15,"Hillsborough County, FL",5525.63
+INV-10040,Customer 024,2025-02-07,Net 15,"Fulton County, GA",3187.78
+INV-10041,Customer 026,2025-02-07,Due on receipt,"King County, WA",4980.93
+INV-10042,Customer 032,2025-02-07,Net 30,"Maricopa County, AZ",6744.11
+INV-10043,Customer 031,2025-02-08,Due on receipt,"Travis County, TX",887.95
+INV-10044,Customer 009,2025-02-10,Net 30,"Cook County, IL",5021.02
+INV-10045,Customer 025,2025-02-10,Net 15,"Cook County, IL",6102.58
+INV-10046,Customer 030,2025-02-11,Net 30,"Kent County, MI",5436.05
+INV-10047,Customer 034,2025-02-11,Due on receipt,"King County, WA",3829.73
+INV-10048,Customer 002,2025-02-12,Net 30,"King County, WA",474.38
+INV-10049,Customer 005,2025-02-12,Net 30,"Travis County, TX",4987.4
+INV-10050,Customer 020,2025-02-12,Due on receipt,"Hillsborough County, FL",3866.88
+INV-10051,Customer 033,2025-02-12,Net 30,"Kent County, MI",1548.21
+INV-10052,Customer 038,2025-02-12,Net 30,"Maricopa County, AZ",200.44
+INV-10053,Customer 012,2025-02-13,Net 15,"Ottawa County, MI",3930.02
+INV-10054,Customer 037,2025-02-13,Net 30,"King County, WA",2858.26
+INV-10055,Customer 039,2025-02-14,Net 15,"Polk County, FL",1322.93
+INV-10056,Customer 003,2025-02-15,Net 15,"King County, WA",5135.81
+INV-10057,Customer 021,2025-02-15,Net 15,"Cook County, IL",4542.53
+INV-10058,Customer 040,2025-02-15,Net 30,"Lake County, IN",1917.46
+INV-10059,Customer 017,2025-02-16,Due on receipt,"Travis County, TX",6863.91
+INV-10060,Customer 011,2025-02-17,Net 30,"Polk County, FL",7587.77
+INV-10061,Customer 023,2025-02-17,Net 30,"Kent County, MI",1854.38
+INV-10062,Customer 035,2025-02-19,Net 30,"Travis County, TX",1267.99
+INV-10063,Customer 019,2025-02-20,Net 30,"Lake County, IN",8416.31
+INV-10064,Customer 022,2025-02-20,Net 30,"Fulton County, GA",3380.55
+INV-10065,Customer 001,2025-02-21,Due on receipt,"Fulton County, GA",1896.43
+INV-10066,Customer 007,2025-02-21,Due on receipt,"Travis County, TX",4607.54
+INV-10067,Customer 018,2025-02-21,Net 30,"Lake County, IN",3737.45
+INV-10068,Customer 010,2025-02-22,Net 15,"Maricopa County, AZ",8238.87
+INV-10069,Customer 013,2025-02-23,Net 30,"Travis County, TX",1349.85
+INV-10070,Customer 004,2025-02-24,Net 30,"Ottawa County, MI",6700.43
+INV-10071,Customer 028,2025-02-24,Net 30,"Maricopa County, AZ",2877.6
+INV-10072,Customer 014,2025-02-27,Net 30,"Lake County, IN",1489.85
+INV-10073,Customer 015,2025-02-27,Net 15,"Wayne County, MI",1570.3
+INV-10074,Customer 007,2025-03-03,Due on receipt,"Travis County, TX",2423.62
+INV-10075,Customer 009,2025-03-03,Net 30,"Cook County, IL",6979.47
+INV-10076,Customer 017,2025-03-03,Due on receipt,"Travis County, TX",7381.45
+INV-10077,Customer 008,2025-03-04,Net 15,"King County, WA",7622.62
+INV-10078,Customer 018,2025-03-04,Net 30,"Lake County, IN",6357.98
+INV-10079,Customer 030,2025-03-04,Net 30,"Kent County, MI",3740.74
+INV-10080,Customer 028,2025-03-05,Net 30,"Maricopa County, AZ",3507.35
+INV-10081,Customer 013,2025-03-06,Net 30,"Travis County, TX",6439.32
+INV-10082,Customer 012,2025-03-08,Net 15,"Ottawa County, MI",3479.49
+INV-10083,Customer 019,2025-03-09,Net 30,"Lake County, IN",2543.86
+INV-10084,Customer 020,2025-03-09,Due on receipt,"Hillsborough County, FL",1622.41
+INV-10085,Customer 002,2025-03-10,Net 30,"King County, WA",2761.51
+INV-10086,Customer 026,2025-03-11,Due on receipt,"King County, WA",2317.79
+INV-10087,Customer 024,2025-03-12,Net 15,"Fulton County, GA",3707.81
+INV-10088,Customer 037,2025-02-15,Net 30,"King County, WA",6118.8
+INV-10089,Customer 016,2025-03-13,Net 30,"Kent County, MI",9062.5
+INV-10090,Customer 032,2025-03-13,Net 30,"Maricopa County, AZ",1765.62
+INV-10091,Customer 034,2025-03-14,Due on receipt,"King County, WA",6607.73
+INV-10092,Customer 039,2025-03-14,Net 15,"Polk County, FL",5401.17
+INV-10093,Customer 031,2025-03-16,Due on receipt,"Travis County, TX",3028.64
+INV-10094,Customer 011,2025-03-17,Net 30,"Polk County, FL",5249.35
+INV-10095,Customer 001,2025-03-18,Due on receipt,"Fulton County, GA",4924.88
+INV-10096,Customer 003,2025-03-19,Net 15,"King County, WA",8009.29
+INV-10097,Customer 010,2025-03-20,Net 15,"Maricopa County, AZ",3056.3
+INV-10098,Customer 014,2025-03-20,Net 30,"Lake County, IN",3329.01
+INV-10099,Customer 040,2025-03-21,Net 30,"Lake County, IN",6704.72
+INV-10100,Customer 005,2025-03-22,Net 30,"Travis County, TX",5252.23
+INV-10101,Customer 021,2025-03-22,Net 15,"Cook County, IL",3839.92
+INV-10102,Customer 022,2025-03-22,Net 30,"Fulton County, GA",3157.39
+INV-10103,Customer 015,2025-03-25,Net 15,"Wayne County, MI",2367.23
+INV-10104,Customer 023,2025-03-25,Net 30,"Kent County, MI",6541.43
+INV-10105,Customer 035,2025-03-25,Net 30,"Travis County, TX",3529.92
+INV-10106,Customer 036,2025-03-26,Net 30,"Travis County, TX",5903.69
+INV-10107,Customer 006,2025-03-27,Due on receipt,"DuPage County, IL",5082.06
+INV-10108,Customer 033,2025-03-27,Net 30,"Kent County, MI",1047.76
+INV-10109,Customer 029,2025-03-28,Net 15,"Hillsborough County, FL",6378.62
+INV-10110,Customer 038,2025-03-28,Net 30,"Maricopa County, AZ",5598.89
+INV-10111,Customer 014,2025-04-01,Net 30,"Lake County, IN",8511.48
+INV-10112,Customer 018,2025-04-03,Net 30,"Lake County, IN",4317.18
+INV-10113,Customer 025,2025-04-04,Net 15,"Cook County, IL",210.99
+INV-10114,Customer 003,2025-04-05,Net 15,"King County, WA",1591.59
+INV-10115,Customer 006,2025-04-06,Due on receipt,"DuPage County, IL",5097.55
+INV-10116,Customer 001,2025-04-07,Due on receipt,"Fulton County, GA",5345.69
+INV-10117,Customer 016,2025-04-07,Net 30,"Kent County, MI",7284.97
+INV-10118,Customer 022,2025-04-09,Net 30,"Fulton County, GA",4458.35
+INV-10119,Customer 038,2025-04-09,Net 30,"Maricopa County, AZ",4427.22
+INV-10120,Customer 012,2025-04-10,Net 15,"Ottawa County, MI",1030.79
+INV-10121,Customer 015,2025-04-12,Net 15,"Wayne County, MI",225.38
+INV-10122,Customer 036,2025-04-12,Net 30,"Travis County, TX",4447.65
+INV-10123,Customer 035,2025-04-13,Net 30,"Travis County, TX",7278.23
+INV-10124,Customer 005,2025-04-15,Net 30,"Travis County, TX",6033.35
+INV-10125,Customer 024,2025-04-15,Net 15,"Fulton County, GA",9812.62
+INV-10126,Customer 013,2025-04-16,Net 30,"Travis County, TX",2511.49
+INV-10127,Customer 028,2025-04-16,Net 30,"Maricopa County, AZ",9165.56
+INV-10128,Customer 037,2025-04-16,Net 30,"King County, WA",4114.28
+INV-10129,Customer 040,2025-04-16,Net 30,"Polk County, FL",8904.1
+INV-10130,Customer 029,2025-04-17,Net 15,"Hillsborough County, FL",9663.92
+INV-10131,Customer 030,2025-04-17,Net 15,"Kent County, MI",8820.8
+INV-10132,Customer 034,2025-04-17,Due on receipt,"King County, WA",5780.83
+INV-10133,Customer 017,2025-04-19,Due on receipt,"Travis County, TX",9757.31
+INV-10134,Customer 031,2025-04-19,Due on receipt,"Travis County, TX",6587.97
+INV-10135,Customer 009,2025-04-20,Net 30,"Cook County, IL",7024.11
+INV-10136,Customer 021,2025-04-20,Net 15,"Cook County, IL",5338.61
+INV-10137,Customer 023,2025-04-21,Net 30,"Kent County, MI",1443.82
+INV-10138,Customer 027,2025-04-21,Net 30,"Fulton County, GA",1113.76
+INV-10139,Customer 004,2025-04-22,Net 30,"Ottawa County, MI",1602.07
+INV-10140,Customer 007,2025-04-22,Due on receipt,"Travis County, TX",498.13
+INV-10141,Customer 011,2025-04-23,Net 30,"Polk County, FL",1449.1
+INV-10142,Customer 026,2025-04-23,Net 30,"King County, WA",5741.09
+INV-10143,Customer 020,2025-04-24,Due on receipt,"Hillsborough County, FL",3093.87
+INV-10144,Customer 032,2025-04-25,Net 30,"Maricopa County, AZ",6434.07
+INV-10145,Customer 039,2025-04-26,Net 15,"Polk County, FL",8061.07
+INV-10146,Customer 002,2025-04-27,Net 30,"King County, WA",5274.01
+INV-10147,Customer 019,2025-04-27,Net 30,"Lake County, IN",10282.74
+INV-10148,Customer 033,2025-04-28,Net 30,"Kent County, MI",1211.73
+INV-10149,Customer 012,2025-05-01,Net 15,"Ottawa County, MI",3884.28
+INV-10150,Customer 022,2025-05-01,Net 30,"Fulton County, GA",3305.31
+INV-10151,Customer 029,2025-05-02,Net 15,"Hillsborough County, FL",5695.81
+INV-10152,Customer 013,2025-05-03,Net 30,"Travis County, TX",1659.18
+INV-10153,Customer 006,2025-05-04,Due on receipt,"DuPage County, IL",2799.37
+INV-10154,Customer 028,2025-05-04,Net 30,"Maricopa County, AZ",3623.07
+INV-10155,Customer 015,2025-05-05,Net 15,"Wayne County, MI",5698.55
+INV-10156,Customer 001,2025-05-06,Due on receipt,"Fulton County, GA",4136.89
+INV-10157,Customer 037,2025-05-06,Net 30,"King County, WA",5205.22
+INV-10158,Customer 017,2025-04-18,Due on receipt,"Travis County, TX",2057.86
+INV-10159,Customer 021,2025-05-08,Net 15,"Cook County, IL",514.84
+INV-10160,Customer 003,2025-05-09,Net 15,"King County, WA",956.73
+INV-10161,Customer 008,2025-05-09,Net 15,"King County, WA",1305.58
+INV-10162,Customer 007,2025-05-11,Due on receipt,"Travis County, TX",8535.8
+INV-10163,Customer 034,2025-05-11,Due on receipt,"King County, WA",1373.14
+INV-10164,Customer 036,2025-05-13,Net 30,"Travis County, TX",5284.84
+INV-10165,Customer 016,2025-05-14,Net 30,"Kent County, MI",7128.53
+INV-10166,Customer 004,2025-05-16,Net 15,"Ottawa County, MI",6118.87
+INV-10167,Customer 014,2025-05-17,Net 30,"Kent County, MI",5763.9
+INV-10168,Customer 033,2025-05-18,Net 30,"Kent County, MI",6529.91
+INV-10169,Customer 011,2025-05-19,Net 30,"Polk County, FL",5760.84
+INV-10170,Customer 024,2025-05-20,Net 15,"Fulton County, GA",4604.11
+INV-10171,Customer 032,2025-05-20,Net 30,"Maricopa County, AZ",2150.8
+INV-10172,Customer 040,2025-05-20,Net 30,"Lake County, IN",3387.35
+INV-10173,Customer 009,2025-05-22,Net 30,"Cook County, IL",2681.93
+INV-10174,Customer 026,2025-05-22,Due on receipt,"King County, WA",958.27
+INV-10175,Customer 005,2025-05-23,Net 30,"Travis County, TX",5339.16
+INV-10176,Customer 039,2025-05-23,Net 15,"Polk County, FL",3606.74
+INV-10177,Customer 025,2025-05-24,Net 15,"Cook County, IL",11216.6
+INV-10178,Customer 010,2025-05-25,Net 15,"Maricopa County, AZ",3925.68
+INV-10179,Customer 018,2025-05-25,Net 30,"Lake County, IN",8133.43
+INV-10180,Customer 031,2025-05-25,Due on receipt,"Travis County, TX",4583.8
+INV-10181,Customer 002,2025-05-26,Net 30,"King County, WA",4731.58
+INV-10182,Customer 023,2025-05-26,Net 30,"Kent County, MI",3786.22
+INV-10183,Customer 027,2025-05-26,Net 30,"Fulton County, GA",3425.55
+INV-10184,Customer 035,2025-05-27,Net 30,"Travis County, TX",1425.69
+INV-10185,Customer 038,2025-05-27,Net 30,"Maricopa County, AZ",2373.05
+INV-10186,Customer 020,2025-05-28,Due on receipt,"Hillsborough County, FL",6610.02
+INV-10187,Customer 005,2025-06-01,Net 30,"Travis County, TX",3034.26
+INV-10188,Customer 006,2025-06-01,Due on receipt,"DuPage County, IL",5096.62
+INV-10189,Customer 020,2025-06-01,Due on receipt,"Hillsborough County, FL",8176.98
+INV-10190,Customer 029,2025-06-01,Net 15,"Hillsborough County, FL",6311.04
+INV-10191,Customer 036,2025-06-02,Net 30,"Travis County, TX",4781.01
+INV-10192,Customer 028,2025-06-03,Net 30,"Maricopa County, AZ",4006.23
+INV-10193,Customer 008,2025-06-04,Net 15,"King County, WA",6801.85
+INV-10194,Customer 013,2025-06-04,Net 30,"Travis County, TX",6263.06
+INV-10195,Customer 037,2025-06-06,Net 30,"King County, WA",1513.27
+INV-10196,Customer 002,2025-06-07,Net 30,"King County, WA",2509.69
+INV-10197,Customer 003,2025-06-07,Net 15,"King County, WA",6875.74
+INV-10198,Customer 012,2025-06-07,Net 15,"Ottawa County, MI",2996.41
+INV-10199,Customer 004,2025-06-08,Net 30,"Ottawa County, MI",5244.21
+INV-10200,Customer 007,2025-06-09,Due on receipt,"Travis County, TX",4688.66
+INV-10201,Customer 011,2025-06-12,Net 30,"Polk County, FL",3638.89
+INV-10202,Customer 031,2025-06-12,Due on receipt,"Travis County, TX",3967.22
+INV-10203,Customer 034,2025-06-12,Due on receipt,"King County, WA",7926.22
+INV-10204,Customer 026,2025-06-13,Due on receipt,"King County, WA",2228.31
+INV-10205,Customer 009,2025-06-14,Net 30,"Cook County, IL",10934.73
+INV-10206,Customer 021,2025-06-15,Net 15,"Cook County, IL",6057.54
+INV-10207,Customer 033,2025-06-15,Net 30,"Kent County, MI",1748.5
+INV-10208,Customer 032,2025-06-18,Net 30,"Maricopa County, AZ",8059.67
+INV-10209,Customer 023,2025-06-19,Net 30,"Kent County, MI",6945.49
+INV-10210,Customer 025,2025-06-19,Net 15,"Cook County, IL",8101.48
+INV-10211,Customer 030,2025-06-19,Net 30,"Kent County, MI",7264.69
+INV-10212,Customer 001,2025-06-23,Due on receipt,"Fulton County, GA",7525.56
+INV-10213,Customer 010,2025-06-23,Net 15,"Maricopa County, AZ",6503.43
+INV-10214,Customer 014,2025-06-23,Net 30,"Lake County, IN",636.62
+INV-10215,Customer 017,2025-06-23,Due on receipt,"Travis County, TX",4982.24
+INV-10216,Customer 038,2025-06-23,Net 30,"Maricopa County, AZ",8041.28
+INV-10217,Customer 015,2025-06-24,Net 15,"Wayne County, MI",5704.86
+INV-10218,Customer 016,2025-06-24,Net 30,"Kent County, MI",826.29
+INV-10219,Customer 019,2025-06-24,Net 30,"Lake County, IN",396.23
+INV-10220,Customer 040,2025-06-25,Net 30,"Lake County, IN",4865.79
+INV-10221,Customer 022,2025-06-26,Net 30,"Fulton County, GA",3864.06
+INV-10222,Customer 024,2025-06-28,Net 15,"Fulton County, GA",4736.42
+INV-10223,Customer 035,2025-06-28,Net 30,"Travis County, TX",645.96
+INV-10224,Customer 039,2025-06-28,Net 15,"Polk County, FL",5903.84
+INV-10225,Customer 003,2025-07-01,Net 15,"King County, WA",4049.64
+INV-10226,Customer 005,2025-07-03,Net 30,"Travis County, TX",3709.57
+INV-10227,Customer 037,2025-07-04,Net 30,"King County, WA",2040.72
+INV-10228,Customer 012,2025-07-06,Net 15,"Ottawa County, MI",4645.92
+INV-10229,Customer 004,2025-07-07,Net 30,"Ottawa County, MI",1560.56
+INV-10230,Customer 006,2025-07-07,Due on receipt,"DuPage County, IL",1821.72
+INV-10231,Customer 009,2025-07-08,Net 30,"Cook County, IL",2072.7
+INV-10232,Customer 030,2025-07-09,Net 30,"Kent County, MI",417.7
+INV-10233,Customer 032,2025-07-09,Net 30,"Maricopa County, AZ",185.62
+INV-10234,Customer 024,2025-07-10,Net 15,"Fulton County, GA",5902.72
+INV-10235,Customer 040,2025-07-10,Net 30,"Lake County, IN",4767.59
+INV-10236,Customer 034,2025-07-11,Due on receipt,"King County, WA",3141.18
+INV-10237,Customer 029,2025-07-12,Net 15,"Hillsborough County, FL",5078.36
+INV-10238,Customer 016,2025-07-13,Net 30,"Kent County, MI",6292.44
+INV-10239,Customer 008,2025-07-14,Net 15,"King County, WA",7265.21
+INV-10240,Customer 011,2025-07-17,Net 30,"Polk County, FL",826.26
+INV-10241,Customer 015,2025-07-17,Net 15,"Wayne County, MI",1025.93
+INV-10242,Customer 018,2025-07-19,Net 30,"Lake County, IN",1148.75
+INV-10243,Customer 010,2025-07-20,Net 15,"Maricopa County, AZ",6947.62
+INV-10244,Customer 017,2025-07-20,Due on receipt,"Travis County, TX",5577.74
+INV-10245,Customer 039,2025-07-20,Net 15,"Polk County, FL",996.97
+INV-10246,Customer 001,2025-07-21,Due on receipt,"Fulton County, GA",6366.09
+INV-10247,Customer 007,2025-07-21,Due on receipt,"Travis County, TX",3159.19
+INV-10248,Customer 014,2025-07-21,Net 30,"Lake County, IN",7372.39
+INV-10249,Customer 025,2025-07-22,Net 15,"Cook County, IL",849.93
+INV-10250,Customer 027,2025-07-22,Net 30,"Fulton County, GA",7089.89
+INV-10251,Customer 022,2025-07-23,Net 30,"Fulton County, GA",1025.74
+INV-10252,Customer 021,2025-07-24,Net 15,"Cook County, IL",5624.62
+INV-10253,Customer 028,2025-07-24,Net 30,"Maricopa County, AZ",5047.28
+INV-10254,Customer 023,2025-07-25,Net 30,"Kent County, MI",810.4
+INV-10255,Customer 031,2025-07-25,Due on receipt,"Travis County, TX",3648.1
+INV-10256,Customer 026,2025-07-26,Net 15,"King County, WA",1329.61
+INV-10257,Customer 035,2025-07-26,Net 30,"Travis County, TX",4825.58
+INV-10258,Customer 002,2025-07-27,Net 30,"King County, WA",4435.94
+INV-10259,Customer 019,2025-07-27,Net 30,"Lake County, IN",2506.07
+INV-10260,Customer 033,2025-07-27,Net 30,"Kent County, MI",209.56
+INV-10261,Customer 038,2025-07-27,Net 30,"Maricopa County, AZ",751.5
+INV-10262,Customer 013,2025-07-28,Net 30,"Travis County, TX",6186.13
+INV-10263,Customer 036,2025-08-01,Net 30,"Travis County, TX",3423.13
+INV-10264,Customer 007,2025-08-02,Due on receipt,"Travis County, TX",5904.51
+INV-10265,Customer 021,2025-08-02,Net 15,"Cook County, IL",8799.68
+INV-10266,Customer 024,2025-08-02,Net 15,"Fulton County, GA",5894.17
+INV-10267,Customer 025,2025-08-02,Net 30,"Cook County, IL",2559.11
+INV-10268,Customer 002,2025-08-03,Net 30,"King County, WA",4835.56
+INV-10269,Customer 028,2025-08-05,Net 30,"Maricopa County, AZ",2013.67
+INV-10270,Customer 033,2025-08-05,Net 30,"Kent County, MI",4006.24
+INV-10271,Customer 035,2025-08-05,Net 30,"Travis County, TX",2539.08
+INV-10272,Customer 040,2025-08-05,Net 30,"Lake County, IN",2145.13
+INV-10273,Customer 011,2025-08-06,Net 30,"Polk County, FL",3780.72
+INV-10274,Customer 019,2025-08-06,Net 30,"Lake County, IN",8273.47
+INV-10275,Customer 018,2025-08-07,Net 30,"Lake County, IN",2462.42
+INV-10276,Customer 039,2025-08-07,Net 15,"Polk County, FL",4915.43
+INV-10277,Customer 027,2025-08-08,Net 30,"Fulton County, GA",7486.11
+INV-10278,Customer 026,2025-08-09,Due on receipt,"King County, WA",5658.74
+INV-10279,Customer 023,2025-08-10,Net 30,"Kent County, MI",9753.88
+INV-10280,Customer 029,2025-08-10,Net 15,"Hillsborough County, FL",4687.58
+INV-10281,Customer 012,2025-08-11,Net 15,"Ottawa County, MI",1675.73
+INV-10282,Customer 006,2025-08-14,Due on receipt,"DuPage County, IL",3126.01
+INV-10283,Customer 017,2025-08-14,Due on receipt,"Travis County, TX",992.38
+INV-10284,Customer 022,2025-08-15,Net 30,"Fulton County, GA",2636.5
+INV-10285,Customer 016,2025-08-16,Net 30,"Kent County, MI",2989.76
+INV-10286,Customer 020,2025-08-16,Due on receipt,"Hillsborough County, FL",3296.21
+INV-10287,Customer 009,2025-08-19,Net 30,"Cook County, IL",5449.18
+INV-10288,Customer 032,2025-08-19,Net 30,"Maricopa County, AZ",1286.3
+INV-10289,Customer 037,2025-08-22,Net 30,"King County, WA",1408.53
+INV-10290,Customer 031,2025-08-23,Due on receipt,"Travis County, TX",5002.96
+INV-10291,Customer 004,2025-08-24,Net 30,"Ottawa County, MI",2407.39
+INV-10292,Customer 013,2025-08-24,Net 30,"Travis County, TX",4354.73
+INV-10293,Customer 001,2025-08-25,Due on receipt,"Fulton County, GA",6462.92
+INV-10294,Customer 015,2025-08-25,Net 15,"Wayne County, MI",11292.49
+INV-10295,Customer 030,2025-08-26,Net 30,"Kent County, MI",3121.61
+INV-10296,Customer 010,2025-08-27,Net 15,"Maricopa County, AZ",6155.49
+INV-10297,Customer 008,2025-08-28,Net 15,"King County, WA",513.35
+INV-10298,Customer 014,2025-08-28,Net 30,"Lake County, IN",1510.64
+INV-10299,Customer 034,2025-08-28,Due on receipt,"King County, WA",1647.76
+INV-10300,Customer 003,2025-09-01,Net 15,"King County, WA",8125.45
+INV-10301,Customer 029,2025-09-02,Net 15,"Hillsborough County, FL",8241.77
+INV-10302,Customer 034,2025-09-04,Due on receipt,"King County, WA",4932.76
+INV-10303,Customer 011,2025-09-05,Net 30,"Polk County, FL",1668.38
+INV-10304,Customer 018,2025-09-05,Net 30,"Lake County, IN",2198.58
+INV-10305,Customer 024,2025-09-05,Net 15,"Fulton County, GA",6970.1
+INV-10306,Customer 025,2025-09-05,Net 15,"Cook County, IL",2655.45
+INV-10307,Customer 026,2025-09-05,Due on receipt,"King County, WA",8415.96
+INV-10308,Customer 001,2025-09-06,Due on receipt,"Fulton County, GA",274.28
+INV-10309,Customer 012,2025-09-06,Net 15,"Ottawa County, MI",930.75
+INV-10310,Customer 017,2025-09-06,Due on receipt,"Travis County, TX",4336.66
+INV-10311,Customer 013,2025-09-07,Net 30,"Travis County, TX",3249.9
+INV-10312,Customer 020,2025-09-07,Due on receipt,"Hillsborough County, FL",4342.37
+INV-10313,Customer 038,2025-09-07,Net 15,"Maricopa County, AZ",8634.35
+INV-10314,Customer 033,2025-09-09,Net 30,"Kent County, MI",2253.96
+INV-10315,Customer 022,2025-09-10,Net 30,"Fulton County, GA",7532.28
+INV-10316,Customer 023,2025-09-10,Net 30,"Kent County, MI",8076.46
+INV-10317,Customer 036,2025-09-10,Net 30,"Travis County, TX",1684.71
+INV-10318,Customer 032,2025-09-11,Net 30,"Maricopa County, AZ",9475.19
+INV-10319,Customer 008,2025-09-12,Net 15,"King County, WA",2171.82
+INV-10320,Customer 037,2025-09-14,Net 30,"King County, WA",6789.43
+INV-10321,Customer 009,2025-09-17,Net 30,"Cook County, IL",3053.33
+INV-10322,Customer 014,2025-09-17,Net 30,"Lake County, IN",3418.3
+INV-10323,Customer 031,2025-09-17,Due on receipt,"Travis County, TX",1102.09
+INV-10324,Customer 004,2025-09-18,Net 30,"Ottawa County, MI",4356.15
+INV-10325,Customer 006,2025-09-18,Due on receipt,"DuPage County, IL",6187.7
+INV-10326,Customer 015,2025-09-20,Net 15,"Wayne County, MI",4045.58
+INV-10327,Customer 028,2025-09-21,Net 30,"Maricopa County, AZ",3512.86
+INV-10328,Customer 010,2025-09-23,Net 15,"Maricopa County, AZ",3347.52
+INV-10329,Customer 019,2025-09-25,Net 30,"Lake County, IN",4106.19
+INV-10330,Customer 035,2025-09-26,Net 30,"Travis County, TX",2340.83
+INV-10331,Customer 040,2025-09-26,Net 30,"Lake County, IN",3563.67
+INV-10332,Customer 021,2025-09-28,Net 15,"Cook County, IL",5651.63
+INV-10333,Customer 017,2025-10-01,Due on receipt,"Travis County, TX",3847.91
+INV-10334,Customer 022,2025-10-01,Net 30,"Fulton County, GA",7898.31
+INV-10335,Customer 018,2025-10-02,Net 30,"Lake County, IN",6753.74
+INV-10336,Customer 036,2025-10-02,Net 30,"Travis County, TX",2692.43
+INV-10337,Customer 038,2025-10-02,Net 30,"Maricopa County, AZ",1226.69
+INV-10338,Customer 030,2025-10-03,Net 30,"Kent County, MI",505.38
+INV-10339,Customer 019,2025-10-05,Net 30,"Lake County, IN",6239.45
+INV-10340,Customer 023,2025-10-06,Net 30,"Kent County, MI",5196.42
+INV-10341,Customer 008,2025-10-07,Net 15,"King County, WA",2585.93
+INV-10342,Customer 039,2025-10-07,Net 15,"Polk County, FL",1733.75
+INV-10343,Customer 014,2025-10-08,Net 30,"Lake County, IN",4116.35
+INV-10344,Customer 020,2025-10-08,Due on receipt,"Hillsborough County, FL",1109.44
+INV-10345,Customer 010,2025-10-09,Net 15,"Maricopa County, AZ",3584.06
+INV-10346,Customer 002,2025-10-12,Net 30,"King County, WA",5392.67
+INV-10347,Customer 011,2025-10-12,Net 30,"Polk County, FL",2756.14
+INV-10348,Customer 040,2025-10-12,Net 30,"Lake County, IN",2908.61
+INV-10349,Customer 021,2025-10-13,Net 15,"Cook County, IL",5328.73
+INV-10350,Customer 035,2025-10-13,Net 30,"Travis County, TX",7118.44
+INV-10351,Customer 005,2025-10-15,Net 30,"Travis County, TX",6462.77
+INV-10352,Customer 015,2025-10-15,Net 15,"Wayne County, MI",6166.49
+INV-10353,Customer 016,2025-10-15,Net 30,"Kent County, MI",7827.29
+INV-10354,Customer 013,2025-10-16,Net 30,"Travis County, TX",3433.09
+INV-10355,Customer 034,2025-10-16,Due on receipt,"King County, WA",3046.18
+INV-10356,Customer 033,2025-10-18,Net 30,"Kent County, MI",9301.39
+INV-10357,Customer 024,2025-10-19,Net 15,"Fulton County, GA",7975.85
+INV-10358,Customer 004,2025-10-20,Net 30,"Ottawa County, MI",5323.92
+INV-10359,Customer 029,2025-10-20,Net 15,"Hillsborough County, FL",3038.69
+INV-10360,Customer 037,2025-10-20,Net 30,"King County, WA",12028.12
+INV-10361,Customer 007,2025-10-21,Due on receipt,"Travis County, TX",6410.45
+INV-10362,Customer 009,2025-10-22,Net 30,"Cook County, IL",7678.52
+INV-10363,Customer 027,2025-10-22,Net 30,"Fulton County, GA",4149.49
+INV-10364,Customer 032,2025-10-22,Net 30,"Maricopa County, AZ",2203.12
+INV-10365,Customer 031,2025-10-24,Due on receipt,"Travis County, TX",6780.87
+INV-10366,Customer 028,2025-10-25,Net 30,"Maricopa County, AZ",4555.26
+INV-10367,Customer 025,2025-10-26,Net 15,"Cook County, IL",5084.65
+INV-10368,Customer 026,2025-10-26,Due on receipt,"King County, WA",1155.25
+INV-10369,Customer 006,2025-10-27,Due on receipt,"DuPage County, IL",6093.88
+INV-10370,Customer 001,2025-10-28,Due on receipt,"Fulton County, GA",7861.94
+INV-10371,Customer 005,2025-11-02,Net 30,"Travis County, TX",2535.28
+INV-10372,Customer 037,2025-11-02,Net 30,"King County, WA",2456.48
+INV-10373,Customer 011,2025-11-04,Net 30,"Polk County, FL",2313.2
+INV-10374,Customer 007,2025-11-05,Due on receipt,"Travis County, TX",8005.47
+INV-10375,Customer 033,2025-11-05,Net 30,"Kent County, MI",6628.43
+INV-10376,Customer 012,2025-11-06,Net 15,"Ottawa County, MI",1737.72
+INV-10377,Customer 024,2025-11-06,Net 15,"Fulton County, GA",1588.93
+INV-10378,Customer 008,2025-11-07,Net 15,"King County, WA",159.17
+INV-10379,Customer 009,2025-11-07,Net 30,"Cook County, IL",12234.85
+INV-10380,Customer 002,2025-11-08,Net 30,"King County, WA",6682.33
+INV-10381,Customer 030,2025-11-10,Net 30,"Kent County, MI",3881.73
+INV-10382,Customer 021,2025-11-12,Net 15,"Cook County, IL",4871.15
+INV-10383,Customer 004,2025-11-13,Net 30,"Ottawa County, MI",8254.8
+INV-10384,Customer 028,2025-11-13,Net 30,"Maricopa County, AZ",4334.78
+INV-10385,Customer 016,2025-11-14,Net 30,"Kent County, MI",4659.54
+INV-10386,Customer 003,2025-11-15,Net 15,"King County, WA",4920.66
+INV-10387,Customer 010,2025-11-15,Net 15,"Maricopa County, AZ",5452.76
+INV-10388,Customer 013,2025-11-15,Net 30,"Travis County, TX",2100.02
+INV-10389,Customer 027,2025-11-15,Net 30,"Fulton County, GA",4747.85
+INV-10390,Customer 035,2025-11-15,Net 30,"Travis County, TX",2471.65
+INV-10391,Customer 022,2025-11-16,Net 30,"Fulton County, GA",2116.05
+INV-10392,Customer 039,2025-11-16,Net 15,"Polk County, FL",2458.77
+INV-10393,Customer 023,2025-11-17,Net 30,"Kent County, MI",1795.79
+INV-10394,Customer 019,2025-11-19,Net 30,"Lake County, IN",6613.36
+INV-10395,Customer 029,2025-11-19,Net 15,"Hillsborough County, FL",5678.11
+INV-10396,Customer 001,2025-11-20,Due on receipt,"Fulton County, GA",6643.21
+INV-10397,Customer 006,2025-11-20,Due on receipt,"DuPage County, IL",6412.44
+INV-10398,Customer 018,2025-11-20,Net 30,"Lake County, IN",1559.88
+INV-10399,Customer 038,2025-11-20,Net 30,"Maricopa County, AZ",4444.42
+INV-10400,Customer 040,2025-11-20,Net 30,"Lake County, IN",2629.7
+INV-10401,Customer 020,2025-11-21,Due on receipt,"Hillsborough County, FL",11131.98
+INV-10402,Customer 031,2025-11-21,Due on receipt,"Travis County, TX",2692.75
+INV-10403,Customer 034,2025-11-22,Due on receipt,"King County, WA",2688.21
+INV-10404,Customer 036,2025-11-22,Net 30,"Travis County, TX",2373.3
+INV-10405,Customer 014,2025-11-25,Net 30,"Lake County, IN",7012.28
+INV-10406,Customer 017,2025-11-25,Due on receipt,"Travis County, TX",5562.56
+INV-10407,Customer 026,2025-11-28,Due on receipt,"King County, WA",160.51
+INV-10408,Customer 039,2025-12-01,Net 15,"Polk County, FL",6983.79
+INV-10409,Customer 040,2025-12-01,Net 30,"Lake County, IN",8395.21
+INV-10410,Customer 005,2025-12-02,Net 30,"Kent County, MI",9245.46
+INV-10411,Customer 033,2025-12-02,Net 30,"Kent County, MI",2875.82
+INV-10412,Customer 006,2025-12-06,Due on receipt,"DuPage County, IL",4675.53
+INV-10413,Customer 031,2025-12-06,Due on receipt,"Travis County, TX",8060.3
+INV-10414,Customer 008,2025-12-07,Net 15,"King County, WA",4054.36
+INV-10415,Customer 014,2025-12-07,Net 30,"Lake County, IN",247.04
+INV-10416,Customer 018,2025-12-08,Net 30,"Lake County, IN",3251.27
+INV-10417,Customer 022,2025-12-08,Net 30,"Fulton County, GA",1936.65
+INV-10418,Customer 025,2025-11-08,Net 15,"Cook County, IL",2409.06
+INV-10419,Customer 002,2025-12-11,Net 30,"King County, WA",5821.39
+INV-10420,Customer 009,2025-12-11,Net 30,"Cook County, IL",6602.19
+INV-10421,Customer 038,2025-12-11,Net 30,"Maricopa County, AZ",3532.76
+INV-10422,Customer 021,2025-12-12,Net 15,"Cook County, IL",5006.83
+INV-10423,Customer 023,2025-12-12,Net 30,"Kent County, MI",7569.16
+INV-10424,Customer 026,2025-12-12,Due on receipt,"King County, WA",3845.39
+INV-10425,Customer 034,2025-12-12,Due on receipt,"King County, WA",2328.55
+INV-10426,Customer 010,2025-12-13,Net 15,"Maricopa County, AZ",3268.57
+INV-10427,Customer 032,2025-12-13,Net 30,"Maricopa County, AZ",4088.57
+INV-10428,Customer 017,2025-12-16,Due on receipt,"Travis County, TX",2625.46
+INV-10429,Customer 019,2025-12-16,Net 30,"Lake County, IN",8671.24
+INV-10430,Customer 028,2025-12-16,Due on receipt,"Maricopa County, AZ",8198.44
+INV-10431,Customer 037,2025-12-17,Net 30,"King County, WA",5007.87
+INV-10432,Customer 001,2025-12-19,Due on receipt,"Fulton County, GA",1275.63
+INV-10433,Customer 015,2025-12-19,Net 15,"Wayne County, MI",8505.21
+INV-10434,Customer 020,2025-12-19,Due on receipt,"Hillsborough County, FL",400.46
+INV-10435,Customer 007,2025-12-21,Due on receipt,"Travis County, TX",3378.25
+INV-10436,Customer 013,2025-12-21,Net 30,"Travis County, TX",2802.77
+INV-10437,Customer 036,2025-12-22,Net 30,"Travis County, TX",4336.19
+INV-10438,Customer 016,2025-12-23,Net 30,"Kent County, MI",5946.06
+INV-10439,Customer 012,2025-12-25,Net 15,"Ottawa County, MI",5983.25
+INV-10440,Customer 027,2025-12-25,Net 30,"Fulton County, GA",4569.3
+INV-10441,Customer 003,2025-12-26,Net 15,"King County, WA",7802.35
+INV-10442,Customer 024,2025-12-26,Net 15,"Fulton County, GA",3549.88
+INV-10443,Customer 030,2025-12-26,Net 30,"Fulton County, GA",2133.81
+INV-10444,Customer 011,2025-12-28,Net 30,"Polk County, FL",8359.07
+INV-10445,Customer 029,2025-12-28,Net 15,"Hillsborough County, FL",899.7

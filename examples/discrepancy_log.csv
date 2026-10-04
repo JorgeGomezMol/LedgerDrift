@@ -1,0 +1,10 @@
+date,environment,cycle,records_processed,defect,count,detected_by
+2026-10-04,E00,invoices,445,IDENTIFIER,15,ledgerdrift 0.1.0 (ledger_only)
+2026-10-04,E00,invoices,445,TAX_CLASSIFICATION,14,ledgerdrift 0.1.0 (ledger_only)
+2026-10-04,E00,invoices,445,DUPLICATE_LINE,22,ledgerdrift 0.1.0 (ledger_only)
+2026-10-04,E00,invoices,445,TAX_JURISDICTION,19,ledgerdrift 0.1.0 (ledger_only)
+2026-10-04,E00,invoices,445,DATE,15,ledgerdrift 0.1.0 (ledger_only)
+2026-10-04,E00,invoices,445,TERMS,20,ledgerdrift 0.1.0 (ledger_only)
+2026-10-04,E00,payments,380,PAYMENT_UNAPPLIED,13,ledgerdrift 0.1.0 (ledger_only)
+2026-10-04,E00,payments,380,PAYMENT_MISAPPLIED,8,ledgerdrift 0.1.0 (ledger_only)
+2026-10-04,E00,time_entries,2800,LABOR_MISALLOCATION,187,ledgerdrift 0.1.0 (ledger_only)
