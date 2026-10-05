@@ -8,3 +8,5 @@ private/
 **/findings.csv
 **/review_queue.csv
 !examples/**
+build/
+dist/
