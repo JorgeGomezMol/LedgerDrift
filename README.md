@@ -33,6 +33,8 @@ How each check works and its limits: [docs/methodology.md](docs/methodology.md).
 
 ## Quick start
 
+New to Python? Follow the [step-by-step guide for accountants](docs/getting-started.md).
+
 ```bash
 pip install -e .            # Python 3.10+
 
